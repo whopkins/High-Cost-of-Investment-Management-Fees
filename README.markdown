@@ -23,7 +23,9 @@ The original index.php then calls the functions to get the appropriate result.
 ###CSS
 I went ahead and beautified it with some CSS.  It's nothing special, but for anyone looking to learn basic CSS it may be helpful.
 
-![NFL QBR Screenshot](NFL_QB_Rating/blob/master/images/nfl_qbr_screenshot.png?raw=true "NFL QBR Application with PHP using OOP")
+![Investment Fees Screenshot](High-Cost-of-Investment-Management-Fees/blob/master/images/investment_fees_screenshot.png?raw=true "Calculating the long-run cost of investment fees with PHP using OOP")
 
 ##Origin of the project
 I had built a Google spreadsheet for my own purposes to measure the long-term impact of management fees on portfolio performance.  I was pretty amazed at the long-run damage that a seemingly small fee of 1.00% of assets can do to the investment over time.  It's like the evil cousin of the "magic" of compounding interest.
+
+The original spreadsheet is found [here](https://docs.google.com/spreadsheet/ccc?key=0AlTbo6YbaY9AdGp2ajY4NUJveVlvT3Q5WDNBQTZVOWc) and can be used to check the PHP calculator.
