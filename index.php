@@ -20,7 +20,7 @@ $hero_stats = new Fees($hero_principal, $hero_repeat, $hero_return, $hero_durati
 	</head>
 	<body>
     <div id="header">
-      <h1 class="page-title">Comparing Management Fees with <span class="php-in-title">PHP</span></h1>
+      <h1 class="page-title">Measuring Management Fees with <span class="php-in-title">PHP</span></h1>
     </div>
     <div id="container">
       <div class="panel">
